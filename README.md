@@ -88,3 +88,5 @@ chmod +x shadowsocks-all.sh
 * 完成后终端会显示黑屏，请滚动下鼠标即可看到下图信息。
 ![25](https://github.com/masonvip/GCP/blob/master/readme.md/25.png?raw=true)
 ⚠️请复制保存信息，然后关闭终端即可。
+
+[![支付宝](https://rawcdn.githack.com/masonvip/masonvip.github.io/18ae48780713dafb6da43fb13fd869429e648d37/file01/支付宝.svg)](https://github.com/masonvip/masonvip.github.io/blob/master/file01/%E6%94%AF%E4%BB%98%E5%AE%9D.JPG)
