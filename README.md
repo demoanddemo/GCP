@@ -66,9 +66,11 @@
 * 回车键
 ![15](https://github.com/masonvip/GCP/blob/master/readme.md/15.png?raw=true)
 * 输入下面代码
->`wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
+```
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh
 chmod +x shadowsocks-all.sh
-./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log`
+./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+```
 * 会自动加载如下图显示，按回车键。
 ![16](https://github.com/masonvip/GCP/blob/master/readme.md/16.png?raw=true)
 * 选择2，按回车键。
