@@ -3,7 +3,9 @@
 1. 注册一个Google账号。
 2. 一张双币信用卡（如：建行VISA卡）。
 3. 科学上网网络。
-> 如之前的到期想再次申请，注册一个新Google账号，可以使用之前的信用卡（建议把原账号里的谷歌云结算）。
+```
+如之前的到期想再次申请，注册一个新Google账号，可以使用之前的信用卡（建议把原账号里的谷歌云结算）。
+```
 ---
 ## 步骤一：注册谷歌云
 * 打开Google进入「[Google云端平台](https://console.cloud.google.com/home/dashboard?project=resolute-vault-248504&hl=zh-CN)」。
